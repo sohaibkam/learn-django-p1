@@ -1,7 +1,3 @@
-Below is a sample README.md content for your Django project, focusing on the board app for posts and tasks. It includes instructions for using the requirements.txt file and a general guide for contributors:
-
----
-
 # Django Board App
 
 Welcome to the Django Board App! This project aims to provide a platform for managing posts and tasks within a board framework, built using Django.
